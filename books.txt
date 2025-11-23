@@ -1,0 +1,33 @@
+title,author,genre,cost,length,pages,booktype
+Rolling Stone,J.K. Rowling,Sci-FI,12000.0,N/A,1200,printedBook
+Hobbit,R.Tolkien,Drama,450.0,90,N/A,audioBook
+Prejudice,J.Austen,Sci-FI,2000.0,N/A,200,printedBook
+Rolling Stone,J.K. Rowling,Sci-FI,12000.0,N/A,1200,printedBook
+Hobbit,R.Tolkien,Romance,450.0,90,N/A,audioBook
+Rolling Stone,J.K. Rowling,Romance,12000.0,N/A,1200,printedBook
+Hobbit,R.Tolkien,Anime,450.0,90,N/A,audioBook
+Tom & Jerry,Dr. Seuss,Comedy,670.0,N/A,67,printedBook
+Hunger Games,Suzanne Collins,Dystopian,3840.0,N/A,384,printedBook
+Fahrenheit 451,Ray Bradbury,Dystopian,1440.0,288,N/A,audioBook
+The Last Ember,Mara Voss,Fantasy,3200.0,N/A,320,printedBook
+Circles in the Dust,Jared Ellison,Mystery,1800.0,360,N/A,audioBook
+Neon Tomorrow,Kira Holt,Sci-Fi,4050.0,N/A,405,printedBook
+Among Quiet Rivers,Elias Drew,Literary Fiction,2980.0,N/A,298,printedBook
+Iron Harbor,Cole Sampson,Thriller,1650.0,330,N/A,audioBook
+Garden of Blue Stars,Rowan Hale,Romance,3500.0,N/A,350,printedBook
+The Lantern Pact,Sienna Reyes,Young Adult,1900.0,N/A,190,printedBook
+Ashes of the Skyline,Tobias Kent,Dystopian,3000.0,600,N/A,audioBook
+Whispers on Old Pine Road,Nora Callen,Horror,2650.0,N/A,265,printedBook
+Second Anchor,Miles Taren,Historical Fiction,3150.0,N/A,315,printedBook
+Percy Jackson,Rick Riordan,Fantasy,1200.0,240,N/A,audioBook
+Moby Dick,Herman Melville,Fiction,6340.0,N/A,634,printedBook
+Naruto,Masashi Kishimoto,Fiction,1200.0,240,N/A,audioBook
+Dr. Who,Dr. Seuss,Fiction,2910.0,582,N/A,audioBook
+Space Cadet,J.T Cruz,Fiction,600.0,120,N/A,audioBook
+Why Iphones Renew,J.T. Cruz,Non-Fiction,3000.0,N/A,300,printedBook
+JTizzle23,J.T. Cruz,Fiction,1000.0,200,N/A,audioBook
+JTizzle,J.T. Cruz,Fiction,2300.0,N/A,230,printedBook
+The Intruder,Frieda McFadden,Fiction,1000.0,200,N/A,audioBook
+The Widow,John Grishman,Fiction,2500.0,N/A,250,printedBook
+21 Jump Street,Cruz,Fiction,600.0,120,N/A,audioBook
+J.T. Cruz Life,Cruzito,NonFiction,2350.0,N/A,235,printedBook
